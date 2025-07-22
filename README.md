@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" />
 
-- 🔭 I’m currently working on **Frontend and JavaScript-based projects**
+- 🔭 I’m currently working on **Full stack and JavaScript-based projects**
 
 - 🌱 I’m currently learning **Data Structures & Algorithms**
 
@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact: *I love debugging more than coding sometimes 😉*
 
-- 🧠 Pronouns: **Gillluuu**
+- 🧠 Pronouns: **Gavaskar**
 
 ---
 
@@ -48,9 +48,9 @@
 
 ### 📌 Pinned Projects
 
-- 🎮 **Tic Tac Toe Game** — Built using HTML, CSS, and JS  
-- ✂️ **Rock Paper Scissors** — Fun logic game with frontend focus  
-- 🛒 **Amazon Clone** — Showcasing basic frontend skills  
+- 🎮 **DocBook** — Built using React, node, mongodb, cloudnary, tailwind  
+- ✂️ **Wanderlust** — Hotel booking app , build in MERN stack
+- 🛒 **Tradenest** — Full stack trading app.  
 
 ---
 
